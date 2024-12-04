@@ -18,7 +18,7 @@ This challenge focuses on writing semantic HTML.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://github.com/cookie-monster01/recipe-page.git]
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process

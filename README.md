@@ -19,7 +19,7 @@ This challenge focuses on writing semantic HTML.
 ### Links
 
 - Solution URL: [https://github.com/cookie-monster01/recipe-page.git]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://recipe-page-two-beta.vercel.app/]
 
 ## My process
 
